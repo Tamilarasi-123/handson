@@ -3,3 +3,9 @@ Devops roadmap:
 2. Linux
 3. Ansible 
 
+
+Dev:
+Build and Develop
+
+Ops: 
+Deploy, monitoring
