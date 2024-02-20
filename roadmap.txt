@@ -2,7 +2,18 @@ Devops roadmap:
 1. Networking
 2. Linux
 3. Ansible 
-4. Git
-5. Maven
-6. Jenkins
-7. Prometheus
+4. Docker
+5. Kubernetes
+6. Git
+7. Maven
+8. Jenkins
+9. Prometheus
+
+
+Dev:
+Build and Develop
+
+Ops: 
+Deploy, monitoring
+
+
