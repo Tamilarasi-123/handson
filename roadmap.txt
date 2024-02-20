@@ -1,4 +1,6 @@
 Devops roadmap:
 1. Networking
 2. Linux
-3. 
+3. Ansible 
+4. Terraform
+5. Monitoring tool
