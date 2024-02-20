@@ -4,6 +4,10 @@ Devops roadmap:
 3. Ansible 
 4. Docker
 5. Kubernetes
+6. Git
+7. Maven
+8. Jenkins
+9. Prometheus
 
 
 Dev:
@@ -11,3 +15,5 @@ Build and Develop
 
 Ops: 
 Deploy, monitoring
+
+
